@@ -1,0 +1,16 @@
+git init 
+git add
+git commit -m "message"
+git add ./file.format
+git branch
+git checkout/switch -b branchname
+git branch -d branchname
+git branch -a
+git merge branchname
+git clone url
+git config --global user.name "username"
+git config --global user.email "gmail"
+git remote add origin url
+git push -u origin branchname
+git fetch origin
+git pull origin
